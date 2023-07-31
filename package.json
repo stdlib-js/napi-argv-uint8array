@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/napi-argv-uint8array",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Convert a Node-API value to an unsigned 8-bit integer array.",
   "license": "Apache-2.0",
   "author": {
